@@ -1,19 +1,16 @@
 body{
-  background-color: linen;
+  background-color: darkSalmon;
+}
+
+#content{
+  border: 0.1em solid white;
+  background-color: floralWhite;
+  margin-left: 15em;
+  margin-right: 15em;
 }
 
 p{
-  margin-left: 15em;
-  margin-right: 15em;
+  padding-left: 1em;
+  padding-right: 20em;
   text-align: justify;
-}
-
-#square{
-  background-color: tomato;
-  bottom: 0;
-  left: 0;
-  padding: 0.5em;
-  position: fixed;
-  right: 0;
-  text-align: center;
 }
