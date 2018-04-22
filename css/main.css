@@ -5,20 +5,29 @@ body{
 .square{
   height: 10em;
   width: 10em;
-  position: relative;
+  position: absolute;
 }
 
 #first{
   background-color: MediumBlue;
-  left: 10em;
-  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 #second{
   background-color: DeepPink;
+  right: 0;
+  top: 0;
 }
 
 #thrid{
   background-color: GoldenRod;
+  bottom: 0;
+  left: 0;
+}
 
+#four{
+  background-color: LightCoral;
+  bottom: 0;
+  right: 0;
 }
