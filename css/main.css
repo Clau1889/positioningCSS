@@ -2,7 +2,20 @@ body{
   background-color: linen;
 }
 
-#squares{
+.square{
   height: 10em;
   width: 10em;
+  position: relative;
+}
+
+#first{
+  background-color: MediumBlue;
+}
+
+#second{
+  background-color: DeepPink;
+}
+
+#thrid{
+  background-color: GoldenRod;
 }
