@@ -2,21 +2,21 @@ body{
   background-color: linen;
 }
 
-#big_box{
-  background-color: navy;
+#box1{
+  background-color: PaleTurquoise;
   bottom: 0;
   left: 0;
-  margin: 1em;
   position: absolute;
   right: 0;
   top: 0;
 }
 
-.small_square{
+#box2{
   background-color: PaleGoldenRod;
-  bottom: 1em;
-  left: 1em;
+  bottom: 0;
+  left: 0;
+  margin-right: 16em;
   position: absolute;
-  right: 1em;
-  top: 1em;
+  right: 0;
+  top: 0;
 }
