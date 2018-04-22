@@ -31,3 +31,12 @@ body{
   bottom: 0;
   right: 0;
 }
+
+.small_square{
+  background-color: white;
+  height: 2.5em;
+  left: 3.5em;
+  position: relative;
+  top: 3.5em;
+  width: 2.5em;
+}
