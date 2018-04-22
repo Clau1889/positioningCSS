@@ -2,6 +2,23 @@ body{
   background-color: darkSalmon;
 }
 
+#menu{
+  background-color: lightSteelBLue;
+  height:3em;
+  margin-left: 15em;
+  margin-right: 15em;
+  width: auto;
+}
+
+.small_box{
+  border-right: 0.1em solid steelBlue;
+  display: inline-block;
+  height: 2em;
+  padding-top: 1em;
+  text-align: center;
+  width: 4em;
+}
+
 #content{
   border: 0.1em solid white;
   background-color: floralWhite;
