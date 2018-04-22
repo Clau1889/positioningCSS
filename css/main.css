@@ -10,12 +10,12 @@ body{
 
 #box1{
   background-color: pink;
-  left: 1em;
-  top: 1em;
+  left: 0.1em;
+  top: 0.1em;
 }
 
 #box2{
   background-color: gold;
-  left: 6em;
-  top: 1em;
+  left: 4.5em;
+  bottom: 10.5em;
 }
