@@ -2,21 +2,20 @@ body{
   background-color: linen;
 }
 
+.square{
+  height: 10em;
+  position: relative;
+  width: 10em;
+}
+
 #box1{
-  background-color: PaleTurquoise;
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
+  background-color: pink;
+  left: 1em;
+  top: 1em;
 }
 
 #box2{
-  background-color: PaleGoldenRod;
-  bottom: 0;
-  left: 0;
-  margin-right: 16em;
-  position: absolute;
-  right: 0;
-  top: 0;
+  background-color: gold;
+  left: 6em;
+  top: 1em;
 }
