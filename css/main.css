@@ -31,7 +31,7 @@
   margin-right: 15em;
 }
 
-p{
+div#content p{
   padding-left: 1em;
   padding-right: 15em;
   text-align: justify;
@@ -48,11 +48,16 @@ p{
   width: 15em;
 }
 
+div#box_left p{
+  text-align: justify;
+  padding: 1em;
+}
+
 #footer{
   background-color: goldenRod;
   bottom: 0;
   left: 15em;
-  padding: 1em;
+  padding: 0.5em;
   position: fixed;
   right: 15em;
 }
