@@ -10,13 +10,15 @@ body{
 
 #first{
   background-color: MediumBlue;
+  left: 10em;
+  position: absolute;
 }
 
 #second{
   background-color: DeepPink;
-  left: 10em;
 }
 
 #thrid{
   background-color: GoldenRod;
+
 }
